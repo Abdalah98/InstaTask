@@ -37,11 +37,12 @@ The app has several main features:
 
 ## UI
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-02 at 14 58 47](https://user-images.githubusercontent.com/41602889/216331476-1055508e-e87d-4cb8-83be-9effc964bc25.png)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-02 at 14 57 36](https://user-images.githubusercontent.com/41602889/216331330-b037a5cd-a976-4faf-894c-f69a3ab2f9ba.png)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-02 at 14 57 33](https://user-images.githubusercontent.com/41602889/216331352-e75b9273-6625-4ee5-acd2-dd6a939f0027.png)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-02 at 14 57 07](https://user-images.githubusercontent.com/41602889/216331413-851c4835-2aa2-435b-ba85-5fdac92b9a42.png)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-02 at 14 57 11](https://user-images.githubusercontent.com/41602889/216331422-e131abe4-f82f-436a-9d3f-af79120385c6.png)
+<kbd><img src="https://user-images.githubusercontent.com/41602889/216331476-1055508e-e87d-4cb8-83be-9effc964bc25.png" width="200" height="380">  </kbd><kbd><img src="https://user-images.githubusercontent.com/41602889/216331330-b037a5cd-a976-4faf-894c-f69a3ab2f9ba.png" width="200" height="380"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/41602889/216331352-e75b9273-6625-4ee5-acd2-dd6a939f0027.png" width="200" height="380"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/41602889/216331413-851c4835-2aa2-435b-ba85-5fdac92b9a42.png" width="200" height="380"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/41602889/216331422-e131abe4-f82f-436a-9d3f-af79120385c6.png" width="200" height="380"></kbd>
+
+
 
 
 
