@@ -19,7 +19,7 @@ The app has several main features:
 
   ## Core Features
     •     Project Organization & Architecture
-    •     MVVM With Dependency Injection
+    •     MVVM 
     •     RxSift/RxCocoa
     •     Moya
     •     UiKit
